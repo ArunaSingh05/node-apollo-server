@@ -1,4 +1,3 @@
-import User from './../../models/user';
 import { GraphQLQueryBaseService } from './graphql-query.base.service';
 
 export default class UserGraphQLService extends GraphQLQueryBaseService {
